@@ -82,6 +82,4 @@ class TicTacToe
     if (winner = won?())
       @board[winner.first]
   end
-
-
 end
